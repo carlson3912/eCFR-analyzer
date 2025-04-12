@@ -1,0 +1,5971 @@
+{
+  "Office of Administration for Children and Families Community Services": {
+    "words": 3422,
+    "sections": 15,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Defense Acquisition Regulations System": {
+    "words": 490307,
+    "sections": 1928,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "2",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office for Micronesian Status Negotiations": {
+    "words": 3620,
+    "sections": 19,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XXVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Housing and Multifamily Housing Assistance Restructuring": {
+    "words": 17398,
+    "sections": 74,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Labor": {
+    "words": 4714530,
+    "sections": 11434,
+    "children": [
+      {
+        "agency": "Benefits Review Board",
+        "words": 10585,
+        "sections": 64
+      },
+      {
+        "agency": "Employee Benefits Security Administration",
+        "words": 421983,
+        "sections": 394
+      },
+      {
+        "agency": "Employees' Compensation Appeals Board",
+        "words": 4147,
+        "sections": 9
+      },
+      {
+        "agency": "Employment and Training Administration",
+        "words": 634930,
+        "sections": 1795
+      },
+      {
+        "agency": "Mine Safety and Health Administration",
+        "words": 423734,
+        "sections": 2523
+      },
+      {
+        "agency": "Occupational Safety and Health Administration",
+        "words": 1714238,
+        "sections": 1475
+      },
+      {
+        "agency": "Office of Assistant Secretary for Veterans' Employment and Training Service",
+        "words": 36666,
+        "sections": 188
+      },
+      {
+        "agency": "Office of Federal Contract Compliance Programs",
+        "words": 97525,
+        "sections": 224
+      },
+      {
+        "agency": "Office of Labor-Management Standards",
+        "words": 63944,
+        "sections": 389
+      },
+      {
+        "agency": "Office of Secretary of Labor",
+        "words": 471635,
+        "sections": 1349
+      },
+      {
+        "agency": "Office of Workers' Compensation Programs",
+        "words": 224039,
+        "sections": 945
+      },
+      {
+        "agency": "Wage and Hour Division",
+        "words": 574768,
+        "sections": 1874
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXIX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XLII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "50",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "29",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Procurement and Property Management": {
+    "words": 3077,
+    "sections": 22,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Pennsylvania Avenue Development Corporation": {
+    "words": 36531,
+    "sections": 183,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Chemical Safety and Hazard Investigation Board": {
+    "words": 24929,
+    "sections": 78,
+    "children": [],
+    "references": [
+      {
+        "title": 40,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Occupational Safety and Health Review Commission": {
+    "words": 44228,
+    "sections": 145,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "XX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Alcohol, Tobacco, Firearms, and Explosives": {
+    "words": 128206,
+    "sections": 421,
+    "children": [],
+    "references": [
+      {
+        "title": 27,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Employee Benefits Security Administration": {
+    "words": 421983,
+    "sections": 394,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "XXV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Foreign Service Impasse Disputes Panel": {
+    "words": 61296,
+    "sections": 316,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Energy Policy and New Uses": {
+    "words": 6706,
+    "sections": 37,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXIX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States International Development Finance Corporation": {
+    "words": 26007,
+    "sections": 101,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Endowment for the Arts": {
+    "words": 2053,
+    "sections": 18,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Council on Environmental Quality": {
+    "words": 35209,
+    "sections": 116,
+    "children": [],
+    "references": [
+      {
+        "title": 40,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Management and Budget": {
+    "words": 383651,
+    "sections": 1101,
+    "children": [
+      {
+        "agency": "Office of Federal Procurement Policy",
+        "words": 97723,
+        "sections": 287
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXXVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "99",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Transit Administration": {
+    "words": 91941,
+    "sections": 345,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Farm Credit System Insurance Corporation": {
+    "words": 23369,
+    "sections": 87,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XXX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Chief Financial Officer": {
+    "words": 577,
+    "sections": 6,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Agricultural Marketing Service": {
+    "words": 1482129,
+    "sections": 8446,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 9,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Oklahoma City National Memorial Trust": {
+    "words": 534,
+    "sections": 1,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Assistant Secretary for Public and Indian Housing": {
+    "words": 410888,
+    "sections": 1083,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Railroad Adjustment Board": {
+    "words": 1155,
+    "sections": 9,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Government Accountability Office": {
+    "words": 60496,
+    "sections": 222,
+    "children": [],
+    "references": [
+      {
+        "title": 4,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Great Lakes St. Lawrence Seaway Development Corporation": {
+    "words": 27686,
+    "sections": 131,
+    "children": [],
+    "references": [
+      {
+        "title": 33,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Delaware River Basin Commission": {
+    "words": 30381,
+    "sections": 129,
+    "children": [],
+    "references": [
+      {
+        "title": 18,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Retirement Thrift Investment Board": {
+    "words": 80500,
+    "sections": 300,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXXVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Rural Utilities Service": {
+    "words": 1397693,
+    "sections": 3147,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XLII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "L",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Science Foundation": {
+    "words": 127366,
+    "sections": 519,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XLIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 45,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "25",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Special Education and Rehabilitative Services": {
+    "words": 270691,
+    "sections": 827,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Natural Resources Revenue": {
+    "words": 143218,
+    "sections": 460,
+    "children": [],
+    "references": [
+      {
+        "title": 30,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Copyright Royalty Board": {
+    "words": 67794,
+    "sections": 134,
+    "children": [],
+    "references": [
+      {
+        "title": 37,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of the Intellectual Property Enforcement Coordinator": {
+    "words": 9421,
+    "sections": 24,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "CIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Energy": {
+    "words": 2451880,
+    "sections": 5060,
+    "children": [
+      {
+        "agency": "Federal Energy Regulatory Commission",
+        "words": 752286,
+        "sections": 1360
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 10,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 10,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 10,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "109",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "9",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Wage and Hour Division": {
+    "words": 574768,
+    "sections": 1874,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of and Adult Education Technical Career": {
+    "words": 35805,
+    "sections": 118,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Special Inspector General for Afghanistan Reconstruction": {
+    "words": 10987,
+    "sections": 23,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXXXIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Utah Reclamation Mitigation and Conservation Commission": {
+    "words": 21689,
+    "sections": 90,
+    "children": [],
+    "references": [
+      {
+        "title": 43,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Institute of Standards and Technology": {
+    "words": 81870,
+    "sections": 341,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 37,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Permitting Improvement Steering Council": {
+    "words": 138,
+    "sections": 2,
+    "children": [],
+    "references": [
+      {
+        "title": 40,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Foreign Agricultural Service": {
+    "words": 36403,
+    "sections": 105,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Board of Governors of the Federal Reserve System": {
+    "words": 2052,
+    "sections": 9,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Comptroller of the Currency": {
+    "words": 740061,
+    "sections": 1117,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Financial Research": {
+    "words": 6039,
+    "sections": 7,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Trade Commission": {
+    "words": 424101,
+    "sections": 975,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XLVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 16,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Assistant Secretary for Community Planning and Development": {
+    "words": 209600,
+    "sections": 385,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Reserve System": {
+    "words": 1735532,
+    "sections": 1534,
+    "children": [
+      {
+        "agency": "Board of Governors of the Federal Reserve System",
+        "words": 2052,
+        "sections": 9
+      }
+    ],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Assistant Secretary for Veterans' Employment and Training Service": {
+    "words": 36666,
+    "sections": 188,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "61",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Transportation Security Administration": {
+    "words": 130168,
+    "sections": 355,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Federal Housing Enterprise Oversight": {
+    "words": 7369,
+    "sections": 15,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Economic Research Service": {
+    "words": 2035,
+    "sections": 11,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Natural Resources Conservation Service": {
+    "words": 98231,
+    "sections": 363,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Appalachian Regional Commission": {
+    "words": 85,
+    "sections": 1,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States International Development Cooperation Agency": {
+    "words": 9879,
+    "sections": 39,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary (Aviation Proceedings)": {
+    "words": 298870,
+    "sections": 1025,
+    "children": [],
+    "references": [
+      {
+        "title": 14,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Transportation Safety Board": {
+    "words": 56216,
+    "sections": 277,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Commission on Military, National, and Public Service": {
+    "words": 18399,
+    "sections": 63,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": "426"
+      }
+    ]
+  },
+  "Office of Information Resources Management": {
+    "words": 1149,
+    "sections": 8,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of the Fiscal Service": {
+    "words": 336782,
+    "sections": 1182,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Housing and Urban Development": {
+    "words": 1848236,
+    "sections": 5246,
+    "children": [
+      {
+        "agency": "Government National Mortgage Association",
+        "words": 8304,
+        "sections": 55
+      },
+      {
+        "agency": "Office of Assistant Secretary for Community Planning and Development",
+        "words": 209600,
+        "sections": 385
+      },
+      {
+        "agency": "Office of Assistant Secretary for Equal Opportunity",
+        "words": 58420,
+        "sections": 231
+      },
+      {
+        "agency": "Office of Assistant Secretary for Housing - Federal Housing Commissioner",
+        "words": 655465,
+        "sections": 2006
+      },
+      {
+        "agency": "Office of Assistant Secretary for Public and Indian Housing",
+        "words": 410888,
+        "sections": 1083
+      },
+      {
+        "agency": "Office of Federal Housing Enterprise Oversight",
+        "words": 7369,
+        "sections": 15
+      },
+      {
+        "agency": "Office of Housing and Multifamily Housing Assistance Restructuring",
+        "words": 17398,
+        "sections": 74
+      },
+      {
+        "agency": "Office of Inspector General, Housing and Urban Development",
+        "words": 9452,
+        "sections": 35
+      },
+      {
+        "agency": "Office of Secretary",
+        "words": 414649,
+        "sections": 1053
+      },
+      {
+        "agency": "Office of Secretary (Housing Assistance Programs and Public and Indian Housing Programs)",
+        "words": 17908,
+        "sections": 45
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 24,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "24",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Federal Procurement Policy": {
+    "words": 97723,
+    "sections": 287,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "99",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Employment and Training Administration": {
+    "words": 634930,
+    "sections": 1795,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Aviation Administration": {
+    "words": 1487356,
+    "sections": 4259,
+    "children": [],
+    "references": [
+      {
+        "title": 14,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Census": {
+    "words": 35837,
+    "sections": 85,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Presidio Trust": {
+    "words": 45521,
+    "sections": 162,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Government National Mortgage Association": {
+    "words": 8304,
+    "sections": 55,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Under-Secretary for Economic Affairs": {
+    "words": 8227,
+    "sections": 57,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Foreign Claims Settlement Commission of the United States": {
+    "words": 17852,
+    "sections": 94,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "President's Commission on White House Fellowships": {
+    "words": 18399,
+    "sections": 63,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": "425"
+      }
+    ]
+  },
+  "Executive Office for Immigration Review": {
+    "words": 221598,
+    "sections": 329,
+    "children": [],
+    "references": [
+      {
+        "title": 8,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Food Safety and Inspection Service": {
+    "words": 356827,
+    "sections": 1085,
+    "children": [],
+    "references": [
+      {
+        "title": 9,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Agency for International Development": {
+    "words": 283846,
+    "sections": 973,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "7",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Foreign Service Labor Relations Board": {
+    "words": 61296,
+    "sections": 316,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Labor-Management Standards": {
+    "words": 63944,
+    "sections": 389,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 29,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Postal Regulatory Commission": {
+    "words": 112609,
+    "sections": 410,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XLVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 39,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Transportation": {
+    "words": 6441266,
+    "sections": 15885,
+    "children": [
+      {
+        "agency": "Federal Aviation Administration",
+        "words": 1487356,
+        "sections": 4259
+      },
+      {
+        "agency": "Federal Aviation Administration Commercial Space Transportation",
+        "words": 218222,
+        "sections": 467
+      },
+      {
+        "agency": "Federal Highway Administration",
+        "words": 417272,
+        "sections": 1033
+      },
+      {
+        "agency": "Federal Motor Carrier Safety Administration",
+        "words": 440644,
+        "sections": 1083
+      },
+      {
+        "agency": "Federal Railroad Administration",
+        "words": 806647,
+        "sections": 2022
+      },
+      {
+        "agency": "Federal Transit Administration",
+        "words": 91941,
+        "sections": 345
+      },
+      {
+        "agency": "Great Lakes St. Lawrence Seaway Development Corporation",
+        "words": 27686,
+        "sections": 131
+      },
+      {
+        "agency": "Maritime Administration",
+        "words": 249444,
+        "sections": 800
+      },
+      {
+        "agency": "National Highway Traffic Safety Administration",
+        "words": 917935,
+        "sections": 1222
+      },
+      {
+        "agency": "Office of Secretary (Aviation Proceedings)",
+        "words": 298870,
+        "sections": 1025
+      },
+      {
+        "agency": "Office of Secretary of Transportation",
+        "words": 453650,
+        "sections": 1265
+      },
+      {
+        "agency": "Pipeline and Hazardous Materials Safety Administration",
+        "words": 975768,
+        "sections": 1914
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "L",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 44,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "12",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Transportation": {
+    "words": 6658,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Farm Service Agency": {
+    "words": 286983,
+    "sections": 1014,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of Transportation": {
+    "words": 453650,
+    "sections": 1265,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Rural Business-Cooperative Service": {
+    "words": 764245,
+    "sections": 1728,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XLII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "L",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Director of National Intelligence": {
+    "words": 20911,
+    "sections": 62,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 32,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Commission for Employment Policy": {
+    "words": 18399,
+    "sections": 63,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": "500"
+      }
+    ]
+  },
+  "Institute of Museum and Library Services": {
+    "words": 4193,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Engraving and Printing": {
+    "words": 1637,
+    "sections": 6,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Science and Technology Policy": {
+    "words": 40279,
+    "sections": 100,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 47,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Crime Prevention and Privacy Compact Council": {
+    "words": 5606,
+    "sections": 24,
+    "children": [],
+    "references": [
+      {
+        "title": 28,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Geospatial-Intelligence Agency": {
+    "words": 0,
+    "sections": 0,
+    "children": [],
+    "references": []
+  },
+  "Architectural and Transportation Barriers Compliance Board": {
+    "words": 156914,
+    "sections": 169,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Telecommunications and Information Administration": {
+    "words": 11794,
+    "sections": 36,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "XXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 47,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 47,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Geological Survey": {
+    "words": 4629,
+    "sections": 28,
+    "children": [],
+    "references": [
+      {
+        "title": 30,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States International Trade Commission": {
+    "words": 136255,
+    "sections": 386,
+    "children": [],
+    "references": [
+      {
+        "title": 19,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Navy Acquisition Regulations": {
+    "words": 761,
+    "sections": 2,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "52",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States Section United States and Mexico International Boundary and Water Commission": {
+    "words": 22409,
+    "sections": 65,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Safety and Environmental Enforcement": {
+    "words": 212649,
+    "sections": 819,
+    "children": [],
+    "references": [
+      {
+        "title": 30,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Oceanic and Atmospheric Administration National Marine Fisheries Service": {
+    "words": 577513,
+    "sections": 693,
+    "children": [],
+    "references": [
+      {
+        "title": 50,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Education": {
+    "words": 1277548,
+    "sections": 3414,
+    "children": [
+      {
+        "agency": "Department of Education Acquisition Regulation",
+        "words": 22443,
+        "sections": 162
+      },
+      {
+        "agency": "Office for Civil Rights",
+        "words": 76641,
+        "sections": 221
+      },
+      {
+        "agency": "Office of and Adult Education Technical Career",
+        "words": 35805,
+        "sections": 118
+      },
+      {
+        "agency": "Office of Bilingual Education and Minority Languages Affairs",
+        "words": 16,
+        "sections": 0
+      },
+      {
+        "agency": "Office of Elementary and Secondary Education",
+        "words": 94899,
+        "sections": 303
+      },
+      {
+        "agency": "Office of Postsecondary Education",
+        "words": 610752,
+        "sections": 1079
+      },
+      {
+        "agency": "Office of Secretary of Education",
+        "words": 158699,
+        "sections": 676
+      },
+      {
+        "agency": "Office of Special Education and Rehabilitative Services",
+        "words": 270691,
+        "sections": 827
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Privacy and Civil Liberties Oversight Board": {
+    "words": 10712,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 6,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Veterans Affairs": {
+    "words": 1372860,
+    "sections": 3402,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 38,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "8",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Prison Industries": {
+    "words": 11260,
+    "sections": 70,
+    "children": [],
+    "references": [
+      {
+        "title": 28,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of the Interior": {
+    "words": 367427,
+    "sections": 1423,
+    "children": [],
+    "references": [
+      {
+        "title": 43,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "National Security Council": {
+    "words": 29693,
+    "sections": 67,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XXI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 47,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Minority Business Development Agency": {
+    "words": 1215,
+    "sections": 6,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Commodity Futures Trading Commission": {
+    "words": 829504,
+    "sections": 1201,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XLI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 17,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Export-Import Bank of the United States": {
+    "words": 36766,
+    "sections": 112,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Social Security Administration": {
+    "words": 897538,
+    "sections": 2113,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 20,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "23",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Procurement Regulations System": {
+    "words": 6,
+    "sections": 0,
+    "children": [],
+    "references": [
+      {
+        "title": 41,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "United States Patent and Trademark Office": {
+    "words": 356088,
+    "sections": 929,
+    "children": [],
+    "references": [
+      {
+        "title": 37,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States and Canada International Joint Commission": {
+    "words": 4541,
+    "sections": 30,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Mine Safety and Health Review Commission": {
+    "words": 32127,
+    "sections": 148,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 29,
+        "chapter": "XXVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Forest Service": {
+    "words": 322026,
+    "sections": 706,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Indian Affairs": {
+    "words": 604067,
+    "sections": 3703,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 25,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Selective Service System": {
+    "words": 52998,
+    "sections": 285,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "American Battle Monuments Commission": {
+    "words": 12510,
+    "sections": 50,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Construction Industry Collective Bargaining Commission": {
+    "words": 816,
+    "sections": 7,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Coast Guard": {
+    "words": 2605529,
+    "sections": 11156,
+    "children": [],
+    "references": [
+      {
+        "title": 33,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 46,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 49,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Pipeline and Hazardous Materials Safety Administration": {
+    "words": 975768,
+    "sections": 1914,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Land Management": {
+    "words": 708451,
+    "sections": 3651,
+    "children": [],
+    "references": [
+      {
+        "title": 43,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "First Responder Network Authority": {
+    "words": 1465,
+    "sections": 5,
+    "children": [],
+    "references": [
+      {
+        "title": 47,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Japan-United States Friendship Commission": {
+    "words": 3620,
+    "sections": 19,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Housing Finance Agency": {
+    "words": 351318,
+    "sections": 795,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXXX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Park Service": {
+    "words": 296257,
+    "sections": 933,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Economic Development Administration": {
+    "words": 37343,
+    "sections": 131,
+    "children": [],
+    "references": [
+      {
+        "title": 13,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Information Security Oversight Office": {
+    "words": 54037,
+    "sections": 103,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of the Treasury": {
+    "words": 274983,
+    "sections": 884,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Federal Financing Bank": {
+    "words": 2777,
+    "sections": 17,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Arctic Research Commission": {
+    "words": 3660,
+    "sections": 19,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XXIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Defense Logistics Agency": {
+    "words": 6924,
+    "sections": 26,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "54",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "U.S. Copyright Office": {
+    "words": 207190,
+    "sections": 209,
+    "children": [],
+    "references": [
+      {
+        "title": 37,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Indian Gaming Commission": {
+    "words": 127581,
+    "sections": 308,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Special Counsel": {
+    "words": 15450,
+    "sections": 64,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "CII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Water Resources Council": {
+    "words": 29104,
+    "sections": 134,
+    "children": [],
+    "references": [
+      {
+        "title": 18,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Council on Disability": {
+    "words": 13197,
+    "sections": 45,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "C",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 34,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "East-West Foreign Trade Board": {
+    "words": 184,
+    "sections": 1,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Independent Counsel": {
+    "words": 13462,
+    "sections": 29,
+    "children": [],
+    "references": [
+      {
+        "title": 28,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Commodity Credit Corporation": {
+    "words": 461398,
+    "sections": 1188,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Coast Guard (Great Lakes Pilotage)": {
+    "words": 14620,
+    "sections": 73,
+    "children": [],
+    "references": [
+      {
+        "title": 46,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Small Business Administration": {
+    "words": 494705,
+    "sections": 1532,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 13,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Institute of Food and Agriculture": {
+    "words": 105444,
+    "sections": 353,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Environmental Protection Agency": {
+    "words": 16715698,
+    "sections": 24398,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 40,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 40,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 40,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "115",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "15",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Inspector General-Health Care": {
+    "words": 80953,
+    "sections": 187,
+    "children": [],
+    "references": [
+      {
+        "title": 42,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Interstate Commerce Commission": {
+    "words": 965,
+    "sections": 4,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XL",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Surface Mining Reclamation and Enforcement": {
+    "words": 434313,
+    "sections": 1474,
+    "children": [],
+    "references": [
+      {
+        "title": 30,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Indian Affairs Assistant Secretary": {
+    "words": 43602,
+    "sections": 397,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Inspector General": {
+    "words": 2841,
+    "sections": 10,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Endowment for the Humanities": {
+    "words": 2176,
+    "sections": 18,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Library of Congress": {
+    "words": 287393,
+    "sections": 389,
+    "children": [
+      {
+        "agency": "Copyright Royalty Board",
+        "words": 67794,
+        "sections": 134
+      },
+      {
+        "agency": "U.S. Copyright Office",
+        "words": 207190,
+        "sections": 209
+      }
+    ],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Army Corps of Engineers": {
+    "words": 412089,
+    "sections": 666,
+    "children": [],
+    "references": [
+      {
+        "title": 33,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 36,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Consumer Product Safety Commission": {
+    "words": 524615,
+    "sections": 1173,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXXI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 16,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Commission of Fine Arts": {
+    "words": 22691,
+    "sections": 109,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XXI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Oceanic and Atmospheric Administration": {
+    "words": 470458,
+    "sections": 1049,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 50,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 50,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Assistant Secretary for Housing - Federal Housing Commissioner": {
+    "words": 655465,
+    "sections": 2006,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 24,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 24,
+        "chapter": "XX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Council of the Inspectors General on Integrity and Efficiency": {
+    "words": 14344,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XCVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Emergency Oil and Gas Guaranteed Loan Board": {
+    "words": 13692,
+    "sections": 28,
+    "children": [],
+    "references": [
+      {
+        "title": 13,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Centers for Medicare & Medicaid Services": {
+    "words": 2539161,
+    "sections": 5073,
+    "children": [],
+    "references": [
+      {
+        "title": 42,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Treasury": {
+    "words": 15480300,
+    "sections": 17826,
+    "children": [
+      {
+        "agency": "Alcohol and Tobacco Tax and Trade Bureau",
+        "words": 901057,
+        "sections": 3570
+      },
+      {
+        "agency": "Bureau of Engraving and Printing",
+        "words": 1637,
+        "sections": 6
+      },
+      {
+        "agency": "Bureau of the Fiscal Service",
+        "words": 336782,
+        "sections": 1182
+      },
+      {
+        "agency": "Community Development Financial Institutions Fund",
+        "words": 50458,
+        "sections": 166
+      },
+      {
+        "agency": "Comptroller of the Currency",
+        "words": 740061,
+        "sections": 1117
+      },
+      {
+        "agency": "Financial Crimes Enforcement Network",
+        "words": 99963,
+        "sections": 290
+      },
+      {
+        "agency": "Fiscal Service",
+        "words": 336782,
+        "sections": 1182
+      },
+      {
+        "agency": "Internal Revenue Service",
+        "words": 11982474,
+        "sections": 6138
+      },
+      {
+        "agency": "Monetary Offices",
+        "words": 29020,
+        "sections": 95
+      },
+      {
+        "agency": "Office of Financial Research",
+        "words": 6039,
+        "sections": 7
+      },
+      {
+        "agency": "Office of Foreign Assets Control",
+        "words": 558973,
+        "sections": 2711
+      },
+      {
+        "agency": "Office of Investment Security",
+        "words": 87539,
+        "sections": 287
+      },
+      {
+        "agency": "Office of Secretary of the Treasury",
+        "words": 274983,
+        "sections": 884
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 17,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 31,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "10",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Advisory Council on Historic Preservation": {
+    "words": 31039,
+    "sections": 57,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Defense Nuclear Facilities Safety Board": {
+    "words": 25108,
+    "sections": 89,
+    "children": [],
+    "references": [
+      {
+        "title": 10,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Travel Regulation System": {
+    "words": 123330,
+    "sections": 1032,
+    "children": [],
+    "references": [
+      {
+        "title": 41,
+        "chapter": null,
+        "subtitle": "F",
+        "part": null
+      }
+    ]
+  },
+  "Department of Education Acquisition Regulation": {
+    "words": 22443,
+    "sections": 162,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "34",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Equal Employment Opportunity Commission": {
+    "words": 269789,
+    "sections": 525,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 29,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Foreign Assets Control": {
+    "words": 558973,
+    "sections": 2711,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "General Services Administration": {
+    "words": 236284,
+    "sections": 1146,
+    "children": [
+      {
+        "agency": "Civilian Board of Contract Appeals",
+        "words": 14494,
+        "sections": 78
+      }
+    ],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "105",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "5",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Mediation Board": {
+    "words": 14338,
+    "sections": 62,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "CI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 29,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Homeland Security": {
+    "words": 5232791,
+    "sections": 16759,
+    "children": [
+      {
+        "agency": "Coast Guard",
+        "words": 2605529,
+        "sections": 11156
+      },
+      {
+        "agency": "Coast Guard (Great Lakes Pilotage)",
+        "words": 14620,
+        "sections": 73
+      },
+      {
+        "agency": "Department of Homeland Security Acquisition Regulation",
+        "words": 43695,
+        "sections": 272
+      },
+      {
+        "agency": "Federal Emergency Management Agency",
+        "words": 335414,
+        "sections": 931
+      },
+      {
+        "agency": "Federal Law Enforcement Training Center",
+        "words": 872,
+        "sections": 13
+      },
+      {
+        "agency": "Human Resources Management System (Homeland Security - Office of Personnel Management)",
+        "words": 30533,
+        "sections": 120
+      },
+      {
+        "agency": "Office of the Secretary of Homeland Security",
+        "words": 244731,
+        "sections": 512
+      },
+      {
+        "agency": "Secret Service",
+        "words": 3667,
+        "sections": 32
+      },
+      {
+        "agency": "Transportation Security Administration",
+        "words": 130168,
+        "sections": 355
+      },
+      {
+        "agency": "U.S. Customs and Border Protection",
+        "words": 1222481,
+        "sections": 2610
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXXVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 8,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Bilingual Education and Minority Languages Affairs": {
+    "words": 16,
+    "sections": 0,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Agricultural Statistics Service": {
+    "words": 2185,
+    "sections": 11,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Motor Carrier Safety Administration": {
+    "words": 440644,
+    "sections": 1083,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of Commerce": {
+    "words": 140796,
+    "sections": 429,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of Education": {
+    "words": 158699,
+    "sections": 676,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Nuclear Waste Technical Review Board": {
+    "words": 9171,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 10,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Joint Board for the Enrollment of Actuaries": {
+    "words": 20947,
+    "sections": 55,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Justice": {
+    "words": 1942188,
+    "sections": 4547,
+    "children": [
+      {
+        "agency": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+        "words": 128206,
+        "sections": 421
+      },
+      {
+        "agency": "Bureau of Prisons",
+        "words": 89659,
+        "sections": 473
+      },
+      {
+        "agency": "Drug Enforcement Administration",
+        "words": 178431,
+        "sections": 465
+      },
+      {
+        "agency": "Executive Office for Immigration Review",
+        "words": 221598,
+        "sections": 329
+      },
+      {
+        "agency": "Federal Prison Industries",
+        "words": 11260,
+        "sections": 70
+      },
+      {
+        "agency": "Foreign Claims Settlement Commission of the United States",
+        "words": 17852,
+        "sections": 94
+      },
+      {
+        "agency": "Offices of Independent Counsel",
+        "words": 3341,
+        "sections": 13
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 28,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 28,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 31,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 40,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "128",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "28",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Government Ethics": {
+    "words": 171833,
+    "sections": 297,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Navajo and Hopi Indian Relocation": {
+    "words": 50316,
+    "sections": 245,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Archives and Records Administration": {
+    "words": 207301,
+    "sections": 830,
+    "children": [
+      {
+        "agency": "Information Security Oversight Office",
+        "words": 54037,
+        "sections": 103
+      },
+      {
+        "agency": "Office of Federal Register",
+        "words": 1361,
+        "sections": 6
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 36,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Nuclear Regulatory Commission": {
+    "words": 1257111,
+    "sections": 2693,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XLVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 10,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "20",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Administrative Conference of the United States": {
+    "words": 12395,
+    "sections": 31,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Administration for Children and Families Refugee Resettlement": {
+    "words": 74695,
+    "sections": 259,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Denali Commission": {
+    "words": 5561,
+    "sections": 26,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Law Enforcement Training Center": {
+    "words": 872,
+    "sections": 13,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Legal Services Corporation": {
+    "words": 66944,
+    "sections": 327,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Human Resources Management System (Homeland Security - Office of Personnel Management)": {
+    "words": 30533,
+    "sections": 120,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XCVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Surface Transportation Board": {
+    "words": 317790,
+    "sections": 725,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Elementary and Secondary Education": {
+    "words": 94899,
+    "sections": 303,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of State": {
+    "words": 541143,
+    "sections": 1829,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 28,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "6",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Defense": {
+    "words": 3752815,
+    "sections": 7373,
+    "children": [
+      {
+        "agency": "Army Corps of Engineers",
+        "words": 412089,
+        "sections": 666
+      },
+      {
+        "agency": "Defense Acquisition Regulations System",
+        "words": 490307,
+        "sections": 1928
+      },
+      {
+        "agency": "Defense Logistics Agency",
+        "words": 6924,
+        "sections": 26
+      },
+      {
+        "agency": "Department of Navy Acquisition Regulations",
+        "words": 761,
+        "sections": 2
+      },
+      {
+        "agency": "National Geospatial-Intelligence Agency",
+        "words": 0,
+        "sections": 0
+      },
+      {
+        "agency": "Office of the Secretary",
+        "words": 1120038,
+        "sections": 1454
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 32,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      },
+      {
+        "title": 40,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Emergency Steel Guarantee Loan Board": {
+    "words": 13476,
+    "sections": 29,
+    "children": [],
+    "references": [
+      {
+        "title": 13,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Internal Revenue Service": {
+    "words": 11982474,
+    "sections": 6138,
+    "children": [],
+    "references": [
+      {
+        "title": 26,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Investment Security": {
+    "words": 87539,
+    "sections": 287,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Rural Housing Service": {
+    "words": 682493,
+    "sections": 1596,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XXXV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "L",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Harry S. Truman Scholarship Foundation": {
+    "words": 9524,
+    "sections": 64,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Workers' Compensation Programs": {
+    "words": 224039,
+    "sections": 945,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 20,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Secret Service": {
+    "words": 3667,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Armed Forces Retirement Home": {
+    "words": 6863,
+    "sections": 21,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 38,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Financial Stability Oversight Council": {
+    "words": 22287,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Counterintelligence Center": {
+    "words": 20298,
+    "sections": 113,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of the Secretary": {
+    "words": 1120038,
+    "sections": 1454,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Agriculture": {
+    "words": 8428505,
+    "sections": 23848,
+    "children": [
+      {
+        "agency": "Agricultural Marketing Service",
+        "words": 1482129,
+        "sections": 8446
+      },
+      {
+        "agency": "Agricultural Research Service",
+        "words": 14216,
+        "sections": 116
+      },
+      {
+        "agency": "Animal and Plant Health Inspection Service",
+        "words": 894087,
+        "sections": 1800
+      },
+      {
+        "agency": "Commodity Credit Corporation",
+        "words": 461398,
+        "sections": 1188
+      },
+      {
+        "agency": "Economic Research Service",
+        "words": 2035,
+        "sections": 11
+      },
+      {
+        "agency": "Farm Service Agency",
+        "words": 286983,
+        "sections": 1014
+      },
+      {
+        "agency": "Federal Crop Insurance Corporation",
+        "words": 325116,
+        "sections": 228
+      },
+      {
+        "agency": "Food and Nutrition Service",
+        "words": 753866,
+        "sections": 613
+      },
+      {
+        "agency": "Food Safety and Inspection Service",
+        "words": 356827,
+        "sections": 1085
+      },
+      {
+        "agency": "Foreign Agricultural Service",
+        "words": 36403,
+        "sections": 105
+      },
+      {
+        "agency": "Forest Service",
+        "words": 322026,
+        "sections": 706
+      },
+      {
+        "agency": "National Agricultural Statistics Service",
+        "words": 2185,
+        "sections": 11
+      },
+      {
+        "agency": "National Institute of Food and Agriculture",
+        "words": 105444,
+        "sections": 353
+      },
+      {
+        "agency": "Natural Resources Conservation Service",
+        "words": 98231,
+        "sections": 363
+      },
+      {
+        "agency": "Office of Advocacy and Outreach",
+        "words": 9455,
+        "sections": 50
+      },
+      {
+        "agency": "Office of Chief Financial Officer",
+        "words": 577,
+        "sections": 6
+      },
+      {
+        "agency": "Office of Energy Policy and New Uses",
+        "words": 6706,
+        "sections": 37
+      },
+      {
+        "agency": "Office of Environmental Quality",
+        "words": 2327,
+        "sections": 7
+      },
+      {
+        "agency": "Office of Information Resources Management",
+        "words": 1149,
+        "sections": 8
+      },
+      {
+        "agency": "Office of Inspector General",
+        "words": 2841,
+        "sections": 10
+      },
+      {
+        "agency": "Office of Operations",
+        "words": 2313,
+        "sections": 19
+      },
+      {
+        "agency": "Office of Procurement and Property Management",
+        "words": 3077,
+        "sections": 22
+      },
+      {
+        "agency": "Office of Secretary of Agriculture",
+        "words": 374654,
+        "sections": 916
+      },
+      {
+        "agency": "Office of Transportation",
+        "words": 6658,
+        "sections": 32
+      },
+      {
+        "agency": "Rural Business-Cooperative Service",
+        "words": 764245,
+        "sections": 1728
+      },
+      {
+        "agency": "Rural Housing Service",
+        "words": 682493,
+        "sections": 1596
+      },
+      {
+        "agency": "Rural Utilities Service",
+        "words": 1397693,
+        "sections": 3147
+      },
+      {
+        "agency": "World Agricultural Outlook Board",
+        "words": 732,
+        "sections": 10
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 7,
+        "chapter": "XX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "4",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Railroad Passenger Corporation": {
+    "words": 9128,
+    "sections": 15,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Inter-American Foundation": {
+    "words": 27039,
+    "sections": 211,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Election Commission": {
+    "words": 222575,
+    "sections": 525,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XXXVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 11,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Deposit Insurance Corporation": {
+    "words": 771052,
+    "sections": 1200,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XXII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Foreign Service Grievance Board": {
+    "words": 7284,
+    "sections": 66,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "IX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Railroad Retirement Board": {
+    "words": 282450,
+    "sections": 979,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Food and Nutrition Service": {
+    "words": 753866,
+    "sections": 613,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "James Madison Memorial Fellowship Foundation": {
+    "words": 9873,
+    "sections": 57,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XXIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Pension Benefit Guaranty Corporation": {
+    "words": 234859,
+    "sections": 580,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "XL",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States Institute of Peace": {
+    "words": 3703,
+    "sections": 19,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Civilian Board of Contract Appeals": {
+    "words": 14494,
+    "sections": 78,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "61",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Railroad Administration": {
+    "words": 806647,
+    "sections": 2022,
+    "children": [],
+    "references": [
+      {
+        "title": 49,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Capital Planning Commission": {
+    "words": 41356,
+    "sections": 125,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": "457"
+      },
+      {
+        "title": 1,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Labor Relations Authority": {
+    "words": 221431,
+    "sections": 933,
+    "children": [
+      {
+        "agency": "Federal Service Impasses Panel ",
+        "words": 79306,
+        "sections": 307
+      },
+      {
+        "agency": "General Counsel of the Federal Labor Relations Authority",
+        "words": 109954,
+        "sections": 465
+      }
+    ],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XLIX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Northeast Interstate Low-Level Radioactive Waste Commission": {
+    "words": 1768,
+    "sections": 5,
+    "children": [],
+    "references": [
+      {
+        "title": 10,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Corporation for National and Community Service": {
+    "words": 185300,
+    "sections": 859,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 45,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 45,
+        "chapter": "XXV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Consumer Financial Protection Bureau": {
+    "words": 1229671,
+    "sections": 684,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXXXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Community Development Financial Institutions Fund": {
+    "words": 50458,
+    "sections": 166,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Federal Contract Compliance Programs": {
+    "words": 97525,
+    "sections": 224,
+    "children": [],
+    "references": [
+      {
+        "title": 41,
+        "chapter": "60",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Aeronautics and Space Administration": {
+    "words": 276293,
+    "sections": 1171,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LIX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 14,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "18",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Commerce": {
+    "words": 2898979,
+    "sections": 5037,
+    "children": [
+      {
+        "agency": "Bureau of Census",
+        "words": 35837,
+        "sections": 85
+      },
+      {
+        "agency": "Bureau of Economic Analysis",
+        "words": 6857,
+        "sections": 13
+      },
+      {
+        "agency": "Bureau of Industry and Security",
+        "words": 945409,
+        "sections": 485
+      },
+      {
+        "agency": "Economic Development Administration",
+        "words": 37343,
+        "sections": 131
+      },
+      {
+        "agency": "Foreign-Trade Zones Board",
+        "words": 17471,
+        "sections": 46
+      },
+      {
+        "agency": "International Trade Administration",
+        "words": 151086,
+        "sections": 234
+      },
+      {
+        "agency": "Minority Business Development Agency",
+        "words": 1215,
+        "sections": 6
+      },
+      {
+        "agency": "National Institute of Standards and Technology",
+        "words": 81870,
+        "sections": 341
+      },
+      {
+        "agency": "National Oceanic and Atmospheric Administration",
+        "words": 470458,
+        "sections": 1049
+      },
+      {
+        "agency": "National Oceanic and Atmospheric Administration National Marine Fisheries Service",
+        "words": 577513,
+        "sections": 693
+      },
+      {
+        "agency": "National Technical Information Service",
+        "words": 6611,
+        "sections": 28
+      },
+      {
+        "agency": "National Telecommunications and Information Administration",
+        "words": 11794,
+        "sections": 36
+      },
+      {
+        "agency": "Office of Secretary of Commerce",
+        "words": 140796,
+        "sections": 429
+      },
+      {
+        "agency": "Office of Under-Secretary for Economic Affairs",
+        "words": 8227,
+        "sections": 57
+      },
+      {
+        "agency": "United States Patent and Trademark Office",
+        "words": 356088,
+        "sections": 929
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 44,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "13",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Agricultural Research Service": {
+    "words": 14216,
+    "sections": 116,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Ocean Energy Management": {
+    "words": 167227,
+    "sections": 709,
+    "children": [],
+    "references": [
+      {
+        "title": 30,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Administrative Committee of the Federal Register": {
+    "words": 12897,
+    "sections": 126,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Industry and Security": {
+    "words": 945409,
+    "sections": 485,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Tennessee Valley Authority": {
+    "words": 106715,
+    "sections": 367,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXIX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 18,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Crop Insurance Corporation": {
+    "words": 325116,
+    "sections": 228,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Special Trustee for American Indians": {
+    "words": 4295,
+    "sections": 29,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Millennium Challenge Corporation": {
+    "words": 13388,
+    "sections": 54,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Highway Traffic Safety Administration": {
+    "words": 917935,
+    "sections": 1222,
+    "children": [],
+    "references": [
+      {
+        "title": 23,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 23,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 47,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 49,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "World Agricultural Outlook Board": {
+    "words": 732,
+    "sections": 10,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Vice President of the United States": {
+    "words": 3050,
+    "sections": 7,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XXVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Credit Union Administration": {
+    "words": 416117,
+    "sections": 698,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXXXVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of Labor": {
+    "words": 471635,
+    "sections": 1349,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Office of Operations": {
+    "words": 2313,
+    "sections": 19,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXVIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "International Trade Administration": {
+    "words": 151086,
+    "sections": 234,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 19,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Neighborhood Reinvestment Corporation": {
+    "words": 4030,
+    "sections": 4,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "XXV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Morris K. Udall and Stewart L. Udall Foundation": {
+    "words": 8414,
+    "sections": 20,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "XVI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States Postal Service": {
+    "words": 216854,
+    "sections": 726,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 39,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "U.S. Customs and Border Protection": {
+    "words": 1222481,
+    "sections": 2610,
+    "children": [],
+    "references": [
+      {
+        "title": 19,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Foreign-Trade Zones Board": {
+    "words": 17471,
+    "sections": 46,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Homeland Security Acquisition Regulation": {
+    "words": 43695,
+    "sections": 272,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "30",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Air Transportation System Stabilization": {
+    "words": 6271,
+    "sections": 30,
+    "children": [],
+    "references": [
+      {
+        "title": 14,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of National Drug Control Policy": {
+    "words": 9249,
+    "sections": 32,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXVI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 21,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Mediation and Conciliation Service": {
+    "words": 69776,
+    "sections": 310,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "CIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 29,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Administration for Children and Families Child Support Enforcement (Child Support Enforcement Program)": {
+    "words": 75176,
+    "sections": 168,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Central Intelligence Agency": {
+    "words": 30982,
+    "sections": 142,
+    "children": [],
+    "references": [
+      {
+        "title": 32,
+        "chapter": "XIX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Alcohol and Tobacco Tax and Trade Bureau": {
+    "words": 901057,
+    "sections": 3570,
+    "children": [],
+    "references": [
+      {
+        "title": 27,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Energy Regulatory Commission": {
+    "words": 752286,
+    "sections": 1360,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 18,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Interior": {
+    "words": 6218505,
+    "sections": 17028,
+    "children": [
+      {
+        "agency": "Bureau of Indian Affairs",
+        "words": 604067,
+        "sections": 3703
+      },
+      {
+        "agency": "Bureau of Land Management",
+        "words": 708451,
+        "sections": 3651
+      },
+      {
+        "agency": "Bureau of Ocean Energy Management",
+        "words": 167227,
+        "sections": 709
+      },
+      {
+        "agency": "Bureau of Reclamation",
+        "words": 74319,
+        "sections": 288
+      },
+      {
+        "agency": "Bureau of Safety and Environmental Enforcement",
+        "words": 212649,
+        "sections": 819
+      },
+      {
+        "agency": "Geological Survey",
+        "words": 4629,
+        "sections": 28
+      },
+      {
+        "agency": "Indian Arts and Crafts Board",
+        "words": 7162,
+        "sections": 65
+      },
+      {
+        "agency": "National Indian Gaming Commission",
+        "words": 127581,
+        "sections": 308
+      },
+      {
+        "agency": "National Park Service",
+        "words": 296257,
+        "sections": 933
+      },
+      {
+        "agency": "Office of Indian Affairs Assistant Secretary",
+        "words": 43602,
+        "sections": 397
+      },
+      {
+        "agency": "Office of Natural Resources Revenue",
+        "words": 143218,
+        "sections": 460
+      },
+      {
+        "agency": "Office of Secretary of the Interior",
+        "words": 367427,
+        "sections": 1423
+      },
+      {
+        "agency": "Office of Special Trustee for American Indians",
+        "words": 4295,
+        "sections": 29
+      },
+      {
+        "agency": "Office of Surface Mining Reclamation and Enforcement",
+        "words": 434313,
+        "sections": 1474
+      },
+      {
+        "agency": "United States Fish and Wildlife Service",
+        "words": 2975933,
+        "sections": 2319
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 41,
+        "chapter": "114",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "14",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Financial Crimes Enforcement Network": {
+    "words": 99963,
+    "sections": 290,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "X",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Maritime Commission": {
+    "words": 172788,
+    "sections": 516,
+    "children": [],
+    "references": [
+      {
+        "title": 46,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary": {
+    "words": 414649,
+    "sections": 1053,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Office of Inspector General, Housing and Urban Development": {
+    "words": 9452,
+    "sections": 35,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "XII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Acquisition Security Council": {
+    "words": 5636,
+    "sections": 10,
+    "children": [],
+    "references": [
+      {
+        "title": 41,
+        "chapter": "201",
+        "subtitle": "D",
+        "part": null
+      }
+    ]
+  },
+  "Federal Property Management Regulations System": {
+    "words": 456436,
+    "sections": 3235,
+    "children": [],
+    "references": [
+      {
+        "title": 41,
+        "chapter": null,
+        "subtitle": "C",
+        "part": null
+      }
+    ]
+  },
+  "Fiscal Service": {
+    "words": 336782,
+    "sections": 1182,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "General Counsel of the Federal Labor Relations Authority": {
+    "words": 109954,
+    "sections": 465,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Offices of Independent Counsel": {
+    "words": 3341,
+    "sections": 13,
+    "children": [],
+    "references": [
+      {
+        "title": 28,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Susquehanna River Basin Commission": {
+    "words": 26845,
+    "sections": 70,
+    "children": [],
+    "references": [
+      {
+        "title": 18,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Marine Mammal Commission": {
+    "words": 12645,
+    "sections": 59,
+    "children": [],
+    "references": [
+      {
+        "title": 50,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Animal and Plant Health Inspection Service": {
+    "words": 894087,
+    "sections": 1800,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 9,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary of Agriculture": {
+    "words": 374654,
+    "sections": 916,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      }
+    ]
+  },
+  "Federal Service Impasses Panel ": {
+    "words": 79306,
+    "sections": 307,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Committee for Purchase From People Who Are Blind or Severely Disabled": {
+    "words": 34131,
+    "sections": 129,
+    "children": [],
+    "references": [
+      {
+        "title": 41,
+        "chapter": "51",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Emergency Management Agency": {
+    "words": 335414,
+    "sections": 931,
+    "children": [],
+    "references": [
+      {
+        "title": 44,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Administration for Children and Families": {
+    "words": 217571,
+    "sections": 442,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Environmental Quality": {
+    "words": 2327,
+    "sections": 7,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXXI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Public Health Service": {
+    "words": 571787,
+    "sections": 1982,
+    "children": [],
+    "references": [
+      {
+        "title": 42,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Military Compensation and Retirement Modernization Commission": {
+    "words": 3540,
+    "sections": 8,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XCIX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Mine Safety and Health Administration": {
+    "words": 423734,
+    "sections": 2523,
+    "children": [],
+    "references": [
+      {
+        "title": 30,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Benefits Review Board": {
+    "words": 10585,
+    "sections": 64,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Highway Administration": {
+    "words": 417272,
+    "sections": 1033,
+    "children": [],
+    "references": [
+      {
+        "title": 23,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 23,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Court Services and Offender Supervision Agency for the District of Columbia": {
+    "words": 30397,
+    "sections": 91,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 28,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Labor Relations Board": {
+    "words": 81166,
+    "sections": 272,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 29,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States Agency for Global Media": {
+    "words": 65391,
+    "sections": 273,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "19",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Maritime Administration": {
+    "words": 249444,
+    "sections": 800,
+    "children": [],
+    "references": [
+      {
+        "title": 46,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Department of Health and Human Services": {
+    "words": 8000630,
+    "sections": 20974,
+    "children": [
+      {
+        "agency": "Administration for Children and Families",
+        "words": 217571,
+        "sections": 442
+      },
+      {
+        "agency": "Centers for Medicare & Medicaid Services",
+        "words": 2539161,
+        "sections": 5073
+      },
+      {
+        "agency": "Food and Drug Administration",
+        "words": 2614990,
+        "sections": 7839
+      },
+      {
+        "agency": "Indian Health Service",
+        "words": 605494,
+        "sections": 2209
+      },
+      {
+        "agency": "Office of Administration for Children and Families Child Support Enforcement (Child Support Enforcement Program)",
+        "words": 75176,
+        "sections": 168
+      },
+      {
+        "agency": "Office of Administration for Children and Families Community Services",
+        "words": 3422,
+        "sections": 15
+      },
+      {
+        "agency": "Office of Administration for Children and Families Family Assistance (Assistance Programs)",
+        "words": 132414,
+        "sections": 407
+      },
+      {
+        "agency": "Office of Administration for Children and Families Refugee Resettlement",
+        "words": 74695,
+        "sections": 259
+      },
+      {
+        "agency": "Office of Inspector General-Health Care",
+        "words": 80953,
+        "sections": 187
+      },
+      {
+        "agency": "Public Health Service",
+        "words": 571787,
+        "sections": 1982
+      }
+    ],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XLV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 45,
+        "chapter": null,
+        "subtitle": "A",
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "3",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Food and Drug Administration": {
+    "words": 2614990,
+    "sections": 7839,
+    "children": [],
+    "references": [
+      {
+        "title": 21,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office for Civil Rights": {
+    "words": 76641,
+    "sections": 221,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Drug Enforcement Administration": {
+    "words": 178431,
+    "sections": 465,
+    "children": [],
+    "references": [
+      {
+        "title": 21,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Commission on Civil Rights": {
+    "words": 25204,
+    "sections": 89,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "LXVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 45,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "African Development Foundation": {
+    "words": 33526,
+    "sections": 257,
+    "children": [],
+    "references": [
+      {
+        "title": 22,
+        "chapter": "XV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "57",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Postsecondary Education": {
+    "words": 610752,
+    "sections": 1079,
+    "children": [],
+    "references": [
+      {
+        "title": 34,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Securities and Exchange Commission": {
+    "words": 1578826,
+    "sections": 2279,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XXXIV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 17,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Election Assistance Commission": {
+    "words": 21475,
+    "sections": 80,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "LVIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 11,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Employees' Compensation Appeals Board": {
+    "words": 4147,
+    "sections": 9,
+    "children": [],
+    "references": [
+      {
+        "title": 20,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Merit Systems Protection Board": {
+    "words": 69701,
+    "sections": 277,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "LXIV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Aviation Administration Commercial Space Transportation": {
+    "words": 218222,
+    "sections": 467,
+    "children": [],
+    "references": [
+      {
+        "title": 14,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Communications Commission": {
+    "words": 2328738,
+    "sections": 5307,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "LX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXIX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 47,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Gulf Coast Ecosystem Restoration Council": {
+    "words": 12054,
+    "sections": 41,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "LIX",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 40,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Advocacy and Outreach": {
+    "words": 9455,
+    "sections": 50,
+    "children": [],
+    "references": [
+      {
+        "title": 7,
+        "chapter": "XXV",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Indian Arts and Crafts Board": {
+    "words": 7162,
+    "sections": 65,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of United States Trade Representative": {
+    "words": 33764,
+    "sections": 112,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "XX",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Acquisition Regulatory Council": {
+    "words": 1002710,
+    "sections": 3399,
+    "children": [],
+    "references": [
+      {
+        "title": 48,
+        "chapter": "1",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Technical Information Service": {
+    "words": 6611,
+    "sections": 28,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Federal Register": {
+    "words": 1361,
+    "sections": 6,
+    "children": [],
+    "references": [
+      {
+        "title": 1,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of the Secretary of Homeland Security": {
+    "words": 244731,
+    "sections": 512,
+    "children": [],
+    "references": [
+      {
+        "title": 6,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Federal Financial Institutions Examination Council": {
+    "words": 23967,
+    "sections": 60,
+    "children": [],
+    "references": [
+      {
+        "title": 12,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Personnel Management": {
+    "words": 1046606,
+    "sections": 3782,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 5,
+        "chapter": "XXXV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 45,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "16",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "17",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 48,
+        "chapter": "21",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Monetary Offices": {
+    "words": 29020,
+    "sections": 95,
+    "children": [],
+    "references": [
+      {
+        "title": 31,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Peace Corps": {
+    "words": 42937,
+    "sections": 153,
+    "children": [],
+    "references": [
+      {
+        "title": 2,
+        "chapter": "XXXVII",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 22,
+        "chapter": "III",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Secretary (Housing Assistance Programs and Public and Indian Housing Programs)": {
+    "words": 17908,
+    "sections": 45,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "VII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Indian Health Service": {
+    "words": 605494,
+    "sections": 2209,
+    "children": [],
+    "references": [
+      {
+        "title": 25,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 42,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Executive Office of the President": {
+    "words": 118819,
+    "sections": 334,
+    "children": [
+      {
+        "agency": "Council on Environmental Quality",
+        "words": 35209,
+        "sections": 116
+      },
+      {
+        "agency": "National Security Council",
+        "words": 29693,
+        "sections": 67
+      },
+      {
+        "agency": "Office of Science and Technology Policy",
+        "words": 40279,
+        "sections": 100
+      },
+      {
+        "agency": "Office of the Intellectual Property Enforcement Coordinator",
+        "words": 9421,
+        "sections": 24
+      }
+    ],
+    "references": [
+      {
+        "title": 3,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Reclamation": {
+    "words": 74319,
+    "sections": 288,
+    "children": [],
+    "references": [
+      {
+        "title": 43,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Smithsonian Institution": {
+    "words": 2774,
+    "sections": 35,
+    "children": [],
+    "references": [
+      {
+        "title": 36,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "International Organizations Employees Loyalty Board": {
+    "words": 2062,
+    "sections": 16,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Occupational Safety and Health Administration": {
+    "words": 1714238,
+    "sections": 1475,
+    "children": [],
+    "references": [
+      {
+        "title": 29,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "United States Fish and Wildlife Service": {
+    "words": 2975933,
+    "sections": 2319,
+    "children": [],
+    "references": [
+      {
+        "title": 50,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 50,
+        "chapter": "IV",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 50,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Administration for Children and Families Family Assistance (Assistance Programs)": {
+    "words": 132414,
+    "sections": 407,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "II",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Prisons": {
+    "words": 89659,
+    "sections": 473,
+    "children": [],
+    "references": [
+      {
+        "title": 28,
+        "chapter": "V",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Foundation on the Arts and the Humanities": {
+    "words": 134762,
+    "sections": 590,
+    "children": [
+      {
+        "agency": "Institute of Museum and Library Services",
+        "words": 4193,
+        "sections": 32
+      },
+      {
+        "agency": "National Endowment for the Arts",
+        "words": 2053,
+        "sections": 18
+      },
+      {
+        "agency": "National Endowment for the Humanities",
+        "words": 2176,
+        "sections": 18
+      }
+    ],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Office of Assistant Secretary for Equal Opportunity": {
+    "words": 58420,
+    "sections": 231,
+    "children": [],
+    "references": [
+      {
+        "title": 24,
+        "chapter": "I",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Farm Credit Administration": {
+    "words": 263716,
+    "sections": 735,
+    "children": [],
+    "references": [
+      {
+        "title": 5,
+        "chapter": "XXXI",
+        "subtitle": null,
+        "part": null
+      },
+      {
+        "title": 12,
+        "chapter": "VI",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "Bureau of Economic Analysis": {
+    "words": 6857,
+    "sections": 13,
+    "children": [],
+    "references": [
+      {
+        "title": 15,
+        "chapter": "VIII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  },
+  "National Commission on Libraries and Information Science": {
+    "words": 9724,
+    "sections": 64,
+    "children": [],
+    "references": [
+      {
+        "title": 45,
+        "chapter": "XVII",
+        "subtitle": null,
+        "part": null
+      }
+    ]
+  }
+}
