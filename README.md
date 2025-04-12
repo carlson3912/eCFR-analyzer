@@ -49,10 +49,4 @@ Why it matters: If DOGE can't decrease the number of regulations, it can at leas
 - CanvasJS for rendering charts
 - eCFR API (v1)
 
----
 
-## To Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ecfr-analyzer.git
-cd ecfr-analyzer
